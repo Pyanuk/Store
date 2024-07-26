@@ -1,0 +1,150 @@
+{
+  "card": [
+    {
+      "myId": "1",
+      "id": "1",
+      "brand": "apple",
+      "type": "notebook",
+      "name": "MACBOOK AIR M2",
+      "description": "MacBook Air M2 – это обновленная версия популярного ноутбука от Apple, выпущенная в 2022 году. Он оснащен новым процессором Apple M2, который представляет собой второй поколение чипов Apple Silicon, обеспечивающий высокую производительность и энергоэффективность. ",
+      "price": "205990₽",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSuhl7YRnMMknaQcC7Szgd1yB-Va9deFOee0Mwncxe8Ob-KYbyPbuKanL50FmB_UEyII&usqp=CAU"
+    },
+    {
+      "myId": "2",
+      "id": "2",
+      "brand": "apple",
+      "name": "IPAD PRO 2022",
+      "type": "tablet",
+      "description": "iPad Pro 2022 – это обновлённая версия флагманского планшета от Apple, которая была представлена в октябре 2022 года. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "price": "87990₽",
+      "url": "https://my-apple-store.ru/wa-data/public/shop/products/20/38/13820/images/23719/23719.500@2x.jpg"
+    },
+    {
+      "myId": "3",
+      "id": "3",
+      "brand": "apple",
+      "name": "IPHONE 13 PRO MAX",
+      "type": "phone",
+      "description": "iPhone 13 Pro Max – это обновлённая версия флагманского смартфона от Apple, выпущенная в 2022 году. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTv5BZcbjqnnNXP6tR_wcQxFylq5Hz2Gxsoz4ZBpEmHr58Bvlc5N7YNZHm4E1ZssfqrcIZeefCPM3ObtkfI-JThDQhYltlUKhIbVygTXGjCQU-0OhQpPkhA&usqp=CAE",
+      "price": "119990₽"
+    },
+    {
+      "myId": "4",
+      "id": "4",
+      "brand": "samsung",
+      "name": "SAMSUNG GALAXY S24 ULTRA",
+      "type": "phone",
+      "description": "Samsung Galaxy S24 Ultra – это флагманская модель с премиальным дизайном, оснащенная большим AMOLED-дисплеем с высокой частотой обновления. Устройство обладает новейшим процессором для максимальной производительности и энергоэффективности. Основной упор сделан на камеры, предлагая передовые возможности фотосъемки и видеозаписи. Смартфон также поддерживает современные технологии связи и автономную работу благодаря ёмкому аккумулятору и быстрой зарядке.",
+      "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMLa0v9ciKmH_pvD7lHvPjEVpzb98GndQL9A3vzBtvjFghBVYb0mJxvORI-KR-69l6Q38PjhReuTPCxX-F0gmBTnlZvtOc&usqp=CAE",
+      "price": "99990₽"
+    },
+    {
+      "myId": "5",
+      "id": "5",
+      "brand": "samsung",
+      "name": " SAMSUNG GALAXY TAB S8 ULTRA",
+      "type": "tablet",
+      "description": "Samsung Galaxy Tab S8 Ultra - это планшет последнего поколения от Samsung. Он предлагает высокую производительность, качественный дисплей и множество функций для работы и развлечений. С большим экраном и мощным процессором, этот планшет идеально подходит для мультимедийных приложений, игр, работы и потребления контента.",
+      "price": "125990₽",
+      "url": "https://cdn.samsungstore.ru/iblock/54a/54a01197c1362d098dffc89cfa55183b/e7c2b7f9fc75548eb551cd78ffb437ca.jpg"
+    },
+    {
+      "myId": "6",
+      "id": "6",
+      "brand": "samsung",
+      "name": "SAMSUNG GALAXY BOOK4 PRO",
+      "type": "notebook",
+      "description": "Samsung Galaxy Book4 Pro – это ультратонкий и легкий ноутбук с 16-дюймовым Dynamic AMOLED 2X дисплеем, частотой обновления 120 Гц и поддержкой HDR. Он оснащен мощными процессорами Intel Core Ultra 7, двумя портами Thunderbolt 4 и Wi-Fi 6E для быстрой и эффективной работы.",
+      "price": "289990₽",
+      "url": "https://static.galaxystore.ru/upload/resize_cache/iblock/8e6/440_440_1/m9z5wqgh2934eldruccxqr8tqu97ducg.jpg"
+    },
+    {
+      "myId": "7",
+      "id": "7",
+      "brand": "google",
+      "name": "GOOGLE PIXEL 8 PRO",
+      "type": "phone",
+      "description": "Google Pixel 8 Pro представляет собой флагманский смартфон от Google, продолжение их линейки Pixel. Он обычно известен своей чистой версией Android, высоким качеством камеры и обновлениями операционной системы, получаемыми сразу после их выпуска. Pixel 8 Pro обычно отличается высокой производительностью и интеграцией с экосистемой Google.",
+      "price": "76990₽",
+      "url": "https://images.biggeek.ru/1/435/1019/23224-858Proonyx.jpg"
+    },
+    {
+      "myId": "8",
+      "id": "8",
+      "brand": "google",
+      "name": "GOOGLE PIXEL TABLET",
+      "type": "tablet",
+      "description": "Google Pixel 8 Pro представляет собой флагманский смартфон от Google, продолжение их линейки Pixel. Он обычно известен своей чистой версией Android, высоким качеством камеры и обновлениями операционной системы, получаемыми сразу после их выпуска. Pixel 8 Pro обычно отличается высокой производительностью и интеграцией с экосистемой Google.",
+      "price": "57990₽",
+      "url": "https://images.biggeek.ru/1/435/25ec/21412-855unnamed.png"
+    },
+    {
+      "myId": "9",
+      "id": "9",
+      "brand": "google",
+      "name": "GOOGLE PIXELBOOK GO",
+      "type": "notebook",
+      "description": "Google Pixel 8 Pro представляет собой флагманский смартфон от Google, продолжение их линейки Pixel. Он обычно известен своей чистой версией Android, высоким качеством камеры и обновлениями операционной системы, получаемыми сразу после их выпуска. Pixel 8 Pro обычно отличается высокой производительностью и интеграцией с экосистемой Google.",
+      "price": "109990₽",
+      "url": "https://static.insales-cdn.com/r/7RHHlNdxYqo/rs:fit:700:700:1/plain/images/products/1/6186/705394730/unnamed.jpg@jpg"
+    }
+  ],
+  "basket": [
+    {
+      "id": "1",
+      "myId": "1",
+      "name": "MACBOOK AIR M2",
+      "description": "MacBook Air M2 – это обновленная версия популярного ноутбука от Apple, выпущенная в 2022 году. Он оснащен новым процессором Apple M2, который представляет собой второй поколение чипов Apple Silicon, обеспечивающий высокую производительность и энергоэффективность. ",
+      "price": "205990₽",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSuhl7YRnMMknaQcC7Szgd1yB-Va9deFOee0Mwncxe8Ob-KYbyPbuKanL50FmB_UEyII&usqp=CAU"
+    },
+    {
+      "id": "4",
+      "myId": "4",
+      "name": "SAMSUNG GALAXY S24 ULTRA",
+      "description": "Samsung Galaxy S24 Ultra – это флагманская модель с премиальным дизайном, оснащенная большим AMOLED-дисплеем с высокой частотой обновления. Устройство обладает новейшим процессором для максимальной производительности и энергоэффективности. Основной упор сделан на камеры, предлагая передовые возможности фотосъемки и видеозаписи. Смартфон также поддерживает современные технологии связи и автономную работу благодаря ёмкому аккумулятору и быстрой зарядке.",
+      "price": "99990₽",
+      "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMLa0v9ciKmH_pvD7lHvPjEVpzb98GndQL9A3vzBtvjFghBVYb0mJxvORI-KR-69l6Q38PjhReuTPCxX-F0gmBTnlZvtOc&usqp=CAE"
+    },
+    {
+      "id": "7",
+      "myId": "7",
+      "name": "GOOGLE PIXEL 8 PRO",
+      "description": "Google Pixel 8 Pro представляет собой флагманский смартфон от Google, продолжение их линейки Pixel. Он обычно известен своей чистой версией Android, высоким качеством камеры и обновлениями операционной системы, получаемыми сразу после их выпуска. Pixel 8 Pro обычно отличается высокой производительностью и интеграцией с экосистемой Google.",
+      "price": "76990₽",
+      "url": "https://images.biggeek.ru/1/435/1019/23224-858Proonyx.jpg"
+    },
+    {
+      "id": "2",
+      "myId": "2",
+      "name": "IPAD PRO 2022",
+      "description": "iPad Pro 2022 – это обновлённая версия флагманского планшета от Apple, которая была представлена в октябре 2022 года. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "price": "87990₽",
+      "url": "https://my-apple-store.ru/wa-data/public/shop/products/20/38/13820/images/23719/23719.500@2x.jpg"
+    }
+  ],
+  "home": [],
+  "favorites": [
+    {
+      "id": "3",
+      "myId": "3",
+      "name": "IPHONE 13 PRO MAX",
+      "description": "iPhone 13 Pro Max – это обновлённая версия флагманского смартфона от Apple, выпущенная в 2022 году. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "price": "119990₽",
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTv5BZcbjqnnNXP6tR_wcQxFylq5Hz2Gxsoz4ZBpEmHr58Bvlc5N7YNZHm4E1ZssfqrcIZeefCPM3ObtkfI-JThDQhYltlUKhIbVygTXGjCQU-0OhQpPkhA&usqp=CAE"
+    },
+    {
+      "id": "7",
+      "myId": "7",
+      "name": "GOOGLE PIXEL 8 PRO",
+      "description": "Google Pixel 8 Pro представляет собой флагманский смартфон от Google, продолжение их линейки Pixel. Он обычно известен своей чистой версией Android, высоким качеством камеры и обновлениями операционной системы, получаемыми сразу после их выпуска. Pixel 8 Pro обычно отличается высокой производительностью и интеграцией с экосистемой Google.",
+      "price": "76990₽",
+      "url": "https://images.biggeek.ru/1/435/1019/23224-858Proonyx.jpg"
+    }
+  ],
+  "about_company": [],
+  "contactform": [],
+  "abouttheproduct": []
+}

@@ -1,0 +1,49 @@
+/* AboutTheProduct.css */
+.product-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('fon.jpg'); /* Убедитесь, что путь к изображению правильный */
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .product-container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .product-container .card {
+    margin: auto;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-container .card img {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .product-container .card-body {
+    padding: 20px;
+  }
+  
+  .product-container .card-title {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  .product-container .card-text {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+  
